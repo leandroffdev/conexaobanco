@@ -1,0 +1,5 @@
+npm init -y
+npm install sqlite3
+npm install sqlite
+
+no package.json acrescentar a linha "type": "module" p trabalhar com js moderno
